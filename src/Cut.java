@@ -3,7 +3,11 @@ import java.io.FileInputStream;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-
+/*
+#1 2
+#2 1
+#3 2
+*/
 public class Cut {
 	public static void main(String[] args) throws Exception {
 		System.setIn(new FileInputStream("input/cut.txt"));
